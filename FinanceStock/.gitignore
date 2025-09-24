@@ -1,0 +1,21 @@
+﻿# Build Folders (Bin, Obj, etc.)
+bin/
+obj/
+out/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider project files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Visual Studio Code files
+.vscode/
